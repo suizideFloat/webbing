@@ -1,5 +1,7 @@
 #! /usr/bin/python
 
+### DEPRECATED !!!
+
 # coding: utf8
 # Author: TestOr
 
